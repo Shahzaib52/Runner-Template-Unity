@@ -21,4 +21,4 @@
  Soon to come:
  - jump and duck behaviour
  - different AI implementations (say, police choppers and tanks? who knows!)
- - some UI stuff
+ - some UI, particle effects and sounds
