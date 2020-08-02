@@ -1,7 +1,7 @@
 # Endless Runner Template Unity
  A simple endless runner template for Unity.
 
-[![Start Screen](Previews/start_screen.gif)]
+[![Start Screen](Preview/start_screen.gif)]
  
  Features:
  - camera system (using cinemachine)
