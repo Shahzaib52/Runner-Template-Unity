@@ -6,12 +6,12 @@
  Features:
  - camera system (using cinemachine)
  - camera transition (similar to subway-surfer)
- ![Transition](Preview/camera_transition.gif)
+![Transition](Preview/camera_transition.gif)
 
  - endless environment (recycling existing patches to create an endless environment)
  - chase AI (basic follow behaviour)
  - obstacle avoidance (used for AI to decide when and where to move when there is a blockage ahead of it)
-  ![Obstacle Avoidance](Preview/camera_transition.gif)
+![Obstacle Avoidance](Preview/ai_oa.gif)
   
  - some bonus scripts (fancy word for residue)
  - lives sidewall bumps (gives you a inspector friendly value to use as a health of some sort when colliding with sidewalls)
